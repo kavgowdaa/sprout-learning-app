@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app_task4
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# sprout-learning-app
+Flutter educational app for children with camera integration, plant detection, rewards, quiz activities, and leaderboard.
+>>>>>>> 3caeae139ddbabf0c4444a898b3d2453da341687
